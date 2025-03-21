@@ -231,10 +231,11 @@ button:hover {
   background: inherit;
   font-weight: bold;
   position: absolute;
-  top: 10px;
+  top: 0px;
   right: 10px;
   border: none;
-  font-size: 24px;
+  font-size: 1px;
+  width: 50px;
   cursor: pointer;
   color: black;
 }
@@ -279,11 +280,10 @@ button:hover {
 }
 
 @media (max-width: 1000px) {
-  .closeBtn {
-    font-size: 18px;
+  /* .closeBtn {
     top: 5px;
     right: 5px;
-  }
+  } */
   .recipe-details-content h2 {
     font-size: 23px;
     margin-inline: 10px;
