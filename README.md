@@ -1,6 +1,8 @@
 # 🍕 Recipe Guide App  
 
+
 A **Recipe Guide App** that lets users **search for recipes** and view detailed **ingredients & cooking instructions**! 🥘✨  
+Powered by [TheMealDB API](https://www.themealdb.com/api.php) 🍽️  
 
 ## 🚀 Features  
 ✅ **Search any recipe** and get multiple suggestions 🔎👨‍🍳  
