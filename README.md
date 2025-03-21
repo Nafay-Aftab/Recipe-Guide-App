@@ -10,8 +10,8 @@ A **Recipe Guide App** that lets users **search for recipes** and view detailed 
 ✅ **Responsive design** – Works on all devices 📱💻  
 
 ## 📸 Preview  
-(https://github.com/user-attachments/assets/ff3401b5-e498-4dcb-95fd-d2f4d829f211)
-(https://github.com/user-attachments/assets/f275007b-e247-4d74-813b-e5a8c06595ce)
+![Recipe Guide App Screenshot](https://github.com/user-attachments/assets/ff3401b5-e498-4dcb-95fd-d2f4d829f211)
+![Recipe Guide App Screenshot](https://github.com/user-attachments/assets/f275007b-e247-4d74-813b-e5a8c06595ce)
 
 
 
